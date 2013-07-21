@@ -1,4 +1,5 @@
 Projekty-Bartix
 ===============
 
-Projekty Gier Komputerowych
+Projekty Gier Kompututerowych.
+kkkk
